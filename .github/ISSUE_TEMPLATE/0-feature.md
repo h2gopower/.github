@@ -2,11 +2,11 @@
 name: "✨ New Feature"
 about: Suggest an idea
 title: "✨"
-labels: "Type: Feature"
-assignees: ""
+labels: ''
+assignees: ''
 
 ---
-  
+
 ### Problem
 
 Explain the problem this feature will solve.
